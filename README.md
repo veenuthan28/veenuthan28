@@ -25,3 +25,6 @@ I'm always open to connecting with fellow developers, learning from others, and 
 - Email: veenuthan28@gmail.com
 
 Let's build amazing things together! 🚀
+
+![Discord](https://lanyard.cnrad.dev/api/801534844135538740)
+
