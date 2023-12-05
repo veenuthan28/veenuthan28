@@ -1,5 +1,7 @@
 # Hi there! 👋
 
+![Hits](https://hits-app.vercel.app/hits?url=https://github.com/veenuthan28)
+
 I'm Veenuthan, an aspiring Application Developer in my apprenticeship as a Computer Scientist (EFZ) at Siemens. At 18 years old, I'm passionate about web design and eager to learn and grow in the world of software development.
 
 ## About Me
