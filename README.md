@@ -1,32 +1,42 @@
-# Hi there! 👋
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="Coding Vibe">
 
-![Hits](https://hits-app.vercel.app/hits?url=https://github.com/veenuthan28)
+# Veenuthan Tharmaseelan
 
-I'm Veenuthan, an aspiring Application Developer in my apprenticeship as a Computer Scientist (EFZ) at Siemens. At 18 years old, I'm passionate about web design and eager to learn and grow in the world of software development.
+Working as a Software Developer [@siemens](https://www.siemens.com/de-de/) | Computer Science (EFZ)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&style=for-the-badge)](https://veenu.ch)
+[![Tools](https://img.shields.io/badge/-Tools-000?&style=for-the-badge)](https://tools.veenu.ch)
+
+---
 
 ## About Me
 
-- 🌐 Currently an apprentice at Siemens, honing my skills as an Application Developer.
-- 🔧 Proficient in web design and enthusiastic about creating beautiful and functional websites.
-- 🚀 Constantly seeking opportunities to expand my knowledge and experience in the tech industry.
+Passionate about web development and building clean, efficient applications. Learning and shipping real-world projects at Siemens.
 
-## Technologies and Tools
+---
 
-Here are some of the technologies and tools I work with:
+## Frontend
 
-- HTML, CSS, and JavaScript for web development.
-- Version control with Git and GitHub.
-- IDEs like Visual Studio Code for coding.
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=C3002F)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind-CSS)
+![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
 
-## Get in Touch
+## Backend & Database
 
-I'm always open to connecting with fellow developers, learning from others, and collaborating on exciting projects. Feel free to reach out to me on:
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![NoSQL](https://img.shields.io/badge/-NoSQL-000?&logo=MongoDB)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-000?&logo=fastapi)
 
-- GitHub: https://github.com/veenuthan28/
-- LinkedIn: https://www.linkedin.com/in/veenuthan-tharmaseelan-979776292/
-- Email: veenuthan28@gmail.com
+## Tools & Methods
 
-Let's build amazing things together! 🚀
-
-![Discord](https://lanyard.cnrad.dev/api/801534844135538740)
-
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=GitLab)
+![Scrum/Agile](https://img.shields.io/badge/-Scrum%2FAgile-000?&logo=ScrumAlliance)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira&logoColor=0052CC)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code&logoColor=0078D4)
